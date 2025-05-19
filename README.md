@@ -59,7 +59,7 @@ I created a professional CV using Canva, highlighting my education, skills, work
 - **Phone:** 067 747 5778  
 - **Email:** mbnkosi08@gmail.com  
 - **Address:** 10 Dorset Street, Woodstock, Cape Town, 8001  
-- **GitHub (optional):** https://github.com/MusaNkosi08
+- **GitHub:** https://github.com/MusaNkosi08
 
 ## 👨‍💻 Professional Summary
 
